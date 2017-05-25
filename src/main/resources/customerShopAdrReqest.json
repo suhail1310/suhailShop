@@ -1,0 +1,40 @@
+{
+	"customerDetails": {
+		"customer_address": "Skylights, Pune, Maharashtra 412207",
+		"custLat": 18.5868553,
+		"custLng": 73.98454720000001
+	},
+	"results": [{
+		"formatted_address": "Near Baker Gauges, Nagar Road, Viman Nagar, Phoenix Market City, Pune, Maharashtra 411014, India",
+		"geometry": {
+			"location": {
+				"lat": 18.562777,
+				"lng": 73.91632
+			}
+		}
+	}, {
+		"formatted_address": "Ground Floor, KPCT B-Wing,S.No-16, Fatimanagar, Pune, Maharashtra 411040, India",
+		"geometry": {
+			"location": {
+				"lat": 18.503725,
+				"lng": 73.9006
+			}
+		}
+	}, {
+		"formatted_address": "Farena Corporate Park, Unit No.3 Ground Floor, Magarpatta, Pune, Maharashtra 411013, India",
+		"geometry": {
+			"location": {
+				"lat": 18.509771,
+				"lng": 73.9283
+			}
+		}
+	}, {
+		"formatted_address": "Shop No. 1-6, Harmony Co-op Housing Society Ltd, Kalyani Nagar, Pune, Maharashtra 411006, India",
+		"geometry": {
+			"location": {
+				"lat": 18.548101,
+				"lng": 73.90008
+			}
+		}
+	}]
+}
